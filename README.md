@@ -1,2 +1,2 @@
 # Hello-world
-Starting on github
+Steak is better medium rare than medium.
